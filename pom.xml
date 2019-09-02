@@ -6,6 +6,9 @@
     <packaging>pom</packaging>
     <modules>
         <module>esati_fast_common</module>
+        <module>esati_fast_cms</module>
+        <module>esati_fast_cms</module>
+        <module>esati_fast_cms</module>
     </modules>
 
     <parent>
